@@ -7,3 +7,5 @@ Put the batteries in and switch the switch and let it ring!
 made a thing that buzzers when the switch is switched.</br>
 [oshwlab](https://oshwlab.com/sahilchess09/buzz)</br>
 [open in editor](https://easyeda.com/editor#project_id=e7091e5c18124f2d83e522b087dcac58)
+
+![alt text](https://github.com/sahilchess/buzzz/blob/main/02%203D%20Front.png)
